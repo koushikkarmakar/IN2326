@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/JoinQuery.hpp
+string
+-
+
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/src/JoinQuery.cpp
+JoinQuery.hpp
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/src/JoinQuery.hpp
+assert.h
+-
+fstream
+-
+thread
+-
+vector
+-
+iostream
+-
+set
+-
+atomic
+-
+thread
+-
+mutex
+-
+deque
+-
+stack
+-
+future
+-
+

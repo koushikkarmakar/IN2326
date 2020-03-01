@@ -1,0 +1,13 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/CMakeFiles/googletest
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/CMakeFiles/googletest.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/CMakeFiles/googletest-complete.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-install.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-mkdir.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-download.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-update.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-patch.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-configure.rule
+/Users/koushikkarmakar/Desktop/fde18-bonusproject1/cmake-build-debug/vendor/gtm/src/googletest-stamp/googletest-build.rule

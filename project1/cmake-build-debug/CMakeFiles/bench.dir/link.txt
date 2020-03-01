@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++14 -pthread -fPIC -Wall -Wextra -fno-omit-frame-pointer -march=native -Wno-unknown-pragmas  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/bench.dir/bench/JoinQuery.cpp.o  -o bench vendor/benchmark/lib/libbenchmark.a libjoin_query.a -lpthread 

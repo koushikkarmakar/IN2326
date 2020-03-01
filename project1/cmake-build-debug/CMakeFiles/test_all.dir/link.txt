@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++14 -pthread -fPIC -Wall -Wextra -fno-omit-frame-pointer -march=native -Wno-unknown-pragmas  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/test_all.dir/test/JoinQuery.cpp.o  -o test_all libjoin_query.a vendor/gtm/gtest/lib/libgtest.a vendor/gtm/gtest/lib/libgtest_main.a -lpthread 

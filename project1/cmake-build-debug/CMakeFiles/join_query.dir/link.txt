@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjoin_query.a  CMakeFiles/join_query.dir/src/JoinQuery.cpp.o
+/usr/bin/ranlib libjoin_query.a
